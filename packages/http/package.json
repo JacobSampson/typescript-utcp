@@ -1,6 +1,6 @@
 {
-  "name": "@utcp/http",
-  "version": "1.1.0",
+  "name": "@aprovan/utcp-http",
+  "version": "1.1.1",
   "description": "HTTP utilities for UTCP",
   "main": "dist/index.cjs",
   "module": "dist/index.js",
@@ -10,7 +10,7 @@
   "author": "UTCP Contributors",
   "repository": {
     "type": "git",
-    "url": "https://github.com/universal-tool-calling-protocol/typescript-utcp.git",
+    "url": "https://github.com/JacobSampson/typescript-utcp.git",
     "directory": "packages/http"
   },
   "keywords": [
